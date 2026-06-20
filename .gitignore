@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/bootstrap/cache
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+dinghy.certs/
+dinghy.env
+phpunit.xml
+.DS_Store
+/vendor
+.idea/
